@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Migrants in Springfield Ohio"
+title:  "Migrants in Springfield Ohio!"
 date:   2024-10-05 18:19:35 -0500
-categories: News, Politics
+categories: News
 ---
 ## Who
 ## When
