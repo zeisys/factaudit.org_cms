@@ -30,12 +30,12 @@ Our approach to fact-checking is thorough and meticulous. We begin by identifyin
 
 At FactAudit.org, we are grateful for the support of our donors, who enable us to continue our work in providing accurate, unbiased information. Below is a list of all donors who have contributed more than $1,000 in the past five years:
 
-1. **John Smith**
-2. **Mary Johnson**
-3. **Global Trust Foundation**
-4. **Thomas Anderson**
-5. **Jane Doe**
-6. **Open Knowledge Initiative**
+1. **John Smith** $1299 on 1/1/2023
+2. **Mary Johnson** $1500 on 1/1/2024
+3. **Global Trust Foundation** Total $1100 between 1/1/2023 and 5/1/2024 
+4. **Thomas Anderson** $1500 on 1/1/2024
+5. **Jane Doe** $1500 on 1/1/2024
+6. **Open Knowledge Initiative** $1500 on 1/1/2024
 
 These generous contributions have helped us remain independent and focused on our mission. We continue to welcome donations from anyone who believes in our commitment to objective and apolitical fact-checking.
 
