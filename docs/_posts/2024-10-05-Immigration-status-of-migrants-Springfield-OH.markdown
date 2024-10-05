@@ -14,7 +14,7 @@ categories: News
 
 
 
-| Assertion | Explanation | Source | T/F |
+| Statement | Rationale | Source of Info | T/F |
 | ----------- | ----------- | ----------- | ----------- |
 | So there's an application called the CBP One app | Customs and Border Patrol has published a free mobile application called the CBP One app to organize entry interviews and the port of entry | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | True |
 | where you can go on as an illegal migrant | CBP One can be used only if the person is outside the US and trying to come in through a point of entry. This is checked through geofence. | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | False |
