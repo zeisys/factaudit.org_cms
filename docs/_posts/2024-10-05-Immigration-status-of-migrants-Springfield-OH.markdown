@@ -5,7 +5,7 @@ date:   2024-10-05 16:27:35 -0400
 categories: News
 ---
 
-## Truth Meter - 40% True
+## Truth Meter 40% True
 
 | Specification | Description | Information |
 | ----------- | ----------- | ----------- |
