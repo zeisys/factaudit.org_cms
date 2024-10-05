@@ -7,8 +7,11 @@ categories: News
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Who | James David Vance | Speech |
+| When | October 1, 2024 | VP Debate |
+| Where | CBS Broadcast Center | New York City, NY |
+| What | So, there's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. That is not a person coming in, applying for a green card and waiting for 10 years. 
+
 
 ## Who
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
