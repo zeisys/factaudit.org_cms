@@ -4,7 +4,6 @@ title:  "Immigration Status of Migrants in Springfield Ohio"
 date:   2024-10-05 16:27:35 -0400
 categories: News
 ---
-| Specification | Description | Information |
 | ----------- | ----------- | ----------- |
 | **Who** | James David Vance | Speech |
 | **When** | October 1, 2024 | VP Debate |
