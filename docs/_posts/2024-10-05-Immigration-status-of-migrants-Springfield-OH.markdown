@@ -5,8 +5,8 @@ date:   2024-10-05 16:27:35 -0400
 categories: News
 ---
 
-| Syntax | Description |
-| ----------- | ----------- |
+| | | |
+| ----------- | ----------- | ----------- |
 | Who | James David Vance | Speech |
 | When | October 1, 2024 | VP Debate |
 | Where | CBS Broadcast Center | New York City, NY |
