@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to FactAudit
+title: FactAudit.org
 email: support@FactAudit.com
 description: >- # this means to ignore newlines until "baseurl:"
-  FactAudit.org is committed to being an unbiased, objective, and transparent platform. It rigorously fact-checks information without any political leanings, ensuring facts are presented accurately, free from left or right bias, purely as verifiable truths.
+  FactAudit.org is committed to being an unbiased, objective, and transparent platform. It rigorously fact-checks information without any political leanings. We are a 503(c) compliant not-for-profit company with IRS registration here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "FactAudit.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://FactAudit.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FactAudit
 github_username:  FactAudit
 
