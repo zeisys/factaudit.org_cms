@@ -14,7 +14,7 @@ categories: News
 
 
 
-| Assertion | Explanation | Source | True or False |
+| Assertion | Explanation | Source | T/F |
 | ----------- | ----------- | ----------- | ----------- |
 | There is an application called the CBP One app | Customs and Border Patrol has published a free mobile application called the CBP One app to organize entry interviews and the port of entry | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | True |
 | CBP One app that can be used to apply for asylum or parole | Haitian nationals can apply for three statuses in the USA. Asylum, Parole, and/or Temporary Protected Status. The processes for each remains unchanged with DHS or DoS. CBP One application is ONLY book appointments at the Port of Entries into the USA. | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | False |
