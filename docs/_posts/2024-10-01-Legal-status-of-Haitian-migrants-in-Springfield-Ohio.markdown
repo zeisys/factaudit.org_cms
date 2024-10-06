@@ -34,4 +34,4 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | YouTube Video @27 minutes, 20 seconds | ![Legal status of Haitian migrants in Springfield Ohio](posts/images/Legal-status-of-Haitian-migrants-in-Springfield-Ohio.jpg) |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1640) | October 5, 2024 |
+| Video | YouTube Video @27 minutes, 20 seconds | ![Legal status of Haitian migrants in Springfield Ohio](/posts/images/Legal-status-of-Haitian-migrants-in-Springfield-Ohio.jpg) |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1640) | October 5, 2024 |
