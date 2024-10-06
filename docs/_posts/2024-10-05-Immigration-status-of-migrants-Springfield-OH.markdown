@@ -28,7 +28,7 @@ In this section we break down the content into statements that are either true o
 In this section we create traceability to the authentic source of the content.
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | YouTube Video @27:50 | |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | October 5, 2024 |
+| Video | YouTube Video @27 minutes, 50 seconds | |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | October 5, 2024 |
 
 
 
