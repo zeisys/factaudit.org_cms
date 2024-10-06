@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Immigration Status of Migrants in Springfield Ohio"
+title:  "CBP One app use by migrants in Springfield Ohio"
 date:   2024-10-05 16:27:35 -0400
 categories: News
 ---
