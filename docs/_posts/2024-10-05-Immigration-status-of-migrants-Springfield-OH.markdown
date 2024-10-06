@@ -6,6 +6,7 @@ categories: News
 ---
 
 ### Fact or Fiction
+In this section we focus on the person who communicated the fact, method, place, time and the EXACT content of the fact. The entire content is audited for truth.
 | Spec | Desc | Info |
 | ----------- | ----------- | ----------- |
 | **WHO** | James David Vance, VP Candidate for Republican Party | Spoken |
@@ -14,6 +15,7 @@ categories: News
 | **WHAT** | So there's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. That is not a person coming in, applying for a green card and waiting for 10 years. | YouTube Captions |
 
 ### Our Analysis
+In this section we break down the content into statements that are either true or false.
 | Statement | Rationale | Source of Info | T/F |
 | ----------- | ----------- | ----------- | ----------- |
 | So there's an application called the CBP One app | Customs and Border Patrol has published a free mobile application called the CBP One app to organize entry interviews and the port of entry | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | True |
@@ -22,7 +24,8 @@ categories: News
 | and be granted legal status at the wave of a Kamala Harris open border wand | Criteria for applying for asylum or parole or temporary protected status has not changed because of CBP One app. | [USCIS.gov Temporary Protected Status for Haitians](https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-haiti) | False |
 | That is not a person coming in, applying for a green card and waiting for 10 years | The users of CBP One application, are not legal immigrants. They are asylum seekers, parole seekers, and temporary protected status seekers who are legal NON-immigrants. They are considered aliens and only have temporary permission to stay in USA. |  [STATE.gov Visa Categories](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/all-visa-categories.html) | True |
 
-### Preservation Source
+### Preservation of Source
+In this section we create traceability to the authentic source of the content.
 | Type | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- |
 | Video |  | [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | October 5, 2024 |
