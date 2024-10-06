@@ -33,4 +33,4 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | YouTube Video @28 minutes, 15 seconds | [Temporary Protected Status law for Haiti has been there since 1990](/assets/images/50.jpg) |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1695) | October 5, 2024 |
+| Video | YouTube Video @28 minutes, 15 seconds | ![Temporary Protected Status law for Haiti has been there since 1990](/assets/images/50.jpg) |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1695) | October 5, 2024 |
