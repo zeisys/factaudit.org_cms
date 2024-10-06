@@ -13,7 +13,7 @@ In this section we focus on the person who communicated the fact, method, place,
 
 | Spec | Desc | Info |
 | ----------- | ----------- | ----------- |
-| **WHO** | Margeret Brennan, VP Debate Moderator | Spoken |
+| **WHO** | Margeret Brennan, VP Debate Moderator, CBS | Spoken |
 | **WHEN** | October 1, 2024 | VP Debate |
 | **WHERE** | CBS Broadcast Center | New York City, NY |
 | **WHAT** | Springfield, OH has a large number of Haitian migrants who have legal status temporary protected status | YouTube Captions |
