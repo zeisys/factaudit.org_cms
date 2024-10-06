@@ -26,9 +26,9 @@ In this section we break down the content into statements that are either true o
 
 ### Preservation of Source
 In this section we create traceability to the authentic source of the content.
-| Type | Screenshot | Link | Link Valid Date |
-| ----------- | ----------- | ----------- | ----------- |
-| Video |  | [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | October 5, 2024 |
+| Type | Source | Screenshot | Link | Link Valid Date |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Video | YouTube Video @27:50 | |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | October 5, 2024 |
 
 
 
