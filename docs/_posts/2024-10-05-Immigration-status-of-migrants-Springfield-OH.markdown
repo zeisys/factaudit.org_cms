@@ -5,7 +5,7 @@ date:   2024-10-05 16:27:35 -0400
 categories: News
 ---
 
-![40% True](./40.jpg)
+![40% True](../40.jpg)
 
 ### Fact / Fiction
 
