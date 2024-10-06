@@ -13,10 +13,10 @@ In this section we focus on the person who communicated the fact, method, place,
 
 | Spec | Desc | Info |
 | ----------- | ----------- | ----------- |
-| **WHO** | James David Vance, VP Candidate for Republican Party | Spoken |
+| **WHO** | Margeret Brennan, VP Debate Moderator | Spoken |
 | **WHEN** | October 1, 2024 | VP Debate |
 | **WHERE** | CBS Broadcast Center | New York City, NY |
-| **WHAT** | So there's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. That is not a person coming in, applying for a green card and waiting for 10 years. | YouTube Captions |
+| **WHAT** | Springfield, OH has a large number of Haitian migrants who have legal status temporary protected status | YouTube Captions |
 
 ### Audit
 
