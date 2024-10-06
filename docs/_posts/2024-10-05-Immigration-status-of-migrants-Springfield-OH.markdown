@@ -7,7 +7,7 @@ categories: News
 
 ![40% True](./40.jpg)
 
-### Fact or Fiction
+### Fact / Fiction
 
 In this section we focus on the person who communicated the fact, method, place, time and the EXACT content of the fact. The entire content is audited for truth.
 
@@ -18,9 +18,9 @@ In this section we focus on the person who communicated the fact, method, place,
 | **WHERE** | CBS Broadcast Center | New York City, NY |
 | **WHAT** | So there's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. That is not a person coming in, applying for a green card and waiting for 10 years. | YouTube Captions |
 
-### Our Analysis
+### Audit
 
-In this section we break down the content into statements that are either true or false.
+In this section we break down the content into statements that are either true or false, but not both.
 
 | Statement | Rationale | Source of Info | T/F |
 | ----------- | ----------- | ----------- | ----------- |
@@ -32,7 +32,7 @@ In this section we break down the content into statements that are either true o
 
 ### Preservation of Source
 
-In this section we create traceability to the authentic source of the content.
+In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
