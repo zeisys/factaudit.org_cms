@@ -24,11 +24,9 @@ In this section we break down the content into statements that are either true o
 
 | Statement | Rationale | Source of Info | T/F |
 | ----------- | ----------- | ----------- | ----------- |
-| So there's an application called the CBP One app | Customs and Border Patrol has published a free mobile application called the CBP One app to organize entry interviews and the port of entry | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | True |
-| where you can go on as an illegal migrant | CBP One can be used only if the person is outside the US and trying to come in through a point of entry. This is checked through geofence. | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | False |
-| apply for asylum or apply for parole | Haitian nationals can apply for three statuses in the USA. Asylum, Parole, and/or Temporary Protected Status. The processes for each remains unchanged with DHS or DoS. CBP One application is ONLY book appointments at the Port of Entries into the USA. | [CBP.gov CBP One App](https://www.cbp.gov/about/mobile-apps-directory/cbpone) | False |
-| and be granted legal status at the wave of a Kamala Harris open border wand | Criteria for applying for asylum or parole or temporary protected status has not changed because of CBP One app. | [USCIS.gov Temporary Protected Status for Haitians](https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-haiti) | False |
-| That is not a person coming in, applying for a green card and waiting for 10 years | The users of CBP One application, are not legal immigrants. They are asylum seekers, parole seekers, and temporary protected status seekers who are legal NON-immigrants. They are considered aliens and only have temporary permission to stay in USA. |  [STATE.gov Visa Categories](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/all-visa-categories.html) | True |
+| Springfield, OH has a large number of Haitian migrants | Springfield OH Government website estimates approximately 12000-15000 of migrants in Clarke County. But there is no specific estimate how many of those migrants are Haitians. | [SPRINGFIELD OHIO.gov Immigration FAQs](https://springfieldohio.gov/immigration-faqs/) | False |
+| Haitian migrants who have legal status | Haitian immigrants are in USA legally, under the Immigration Parole Program. Almost all Haitians have legal immigration status of a parolee. It is rational to estimate that Haitians migrants living in the USA have legal status. | [SPRINGFIELD OHIO.gov Immigration FAQs](https://springfieldohio.gov/immigration-faqs/)  | True |
+| Haitian migrants who have legal status temporary protected status | Haitian migrants can apply for three statuses in the USA. Asylum, Parole, and/or Temporary Protected Status (TPS). However, USCIS, CBP or DHS has not published any information on how many Haitian migrants have applied for TPS. | [USCIS.gov TPS](https://www.uscis.gov/humanitarian/temporary-protected-status) | False |
 
 ### Preservation of Source
 
@@ -36,4 +34,4 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | YouTube Video @27 minutes, 50 seconds | |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | October 5, 2024 |
+| Video | YouTube Video @27 minutes, 20 seconds | |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1640) | October 5, 2024 |
