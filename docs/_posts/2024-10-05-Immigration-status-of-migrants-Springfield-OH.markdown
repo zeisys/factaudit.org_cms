@@ -5,6 +5,8 @@ date:   2024-10-05 16:27:35 -0400
 categories: News
 ---
 
+![40% True](./40.svg)
+
 ### Fact or Fiction
 
 In this section we focus on the person who communicated the fact, method, place, time and the EXACT content of the fact. The entire content is audited for truth.
