@@ -2,6 +2,7 @@
 layout: post
 title:  "Legal status of Haitian migrants in Springfield Ohio"
 date:   2024-10-01 16:27:35 -0400
+description: "'Legal status of Haitian migrants in Springfield Ohio' - Margeret Brennan (CBS) - Here's a fact audit of her statement"
 categories: News
 ---
 
