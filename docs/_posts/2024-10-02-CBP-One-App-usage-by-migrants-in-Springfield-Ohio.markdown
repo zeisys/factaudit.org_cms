@@ -2,6 +2,7 @@
 layout: post
 title:  "CBP One App usage by migrants in Springfield Ohio"
 date:   2024-10-02 16:27:35 -0400
+description: '"So there's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. That is not a person coming in, applying for a green card and waiting for 10 years." - James David Vance. Here we have a fact audit of his statement'
 categories: News
 ---
 
