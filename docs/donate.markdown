@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donate
-permalink: /Donate.html
+permalink: /donate.html
 ---
 
 # FactAudit.org: Who we are.
