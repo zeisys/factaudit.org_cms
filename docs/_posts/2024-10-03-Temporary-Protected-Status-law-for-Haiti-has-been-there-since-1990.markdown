@@ -2,6 +2,7 @@
 layout: post
 title:  "Temporary Protected Status law for Haiti has been there since 1990"
 date:   2024-10-03 16:27:35 -0400
+description: "'Temporary Protected Status law for Haiti has been there since 1990' - Tim Walz. Here we have a fact audit of his statement"
 categories: Politics
 ---
 
