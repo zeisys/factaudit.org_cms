@@ -4,6 +4,12 @@ title: Donate
 permalink: /donate.html
 ---
 
-# FactAudit.org: Who we are.
+# Please Donate
 
-In an era of increasing polarization and widespread misinformation, FactAudit.org stands as a beacon of trust, objectivity, and transparency. As a fact-checking organization, our mission is to provide the public with accurate, verifiable information, free from political influence or ideological leanings. We are committed to upholding the highest standards of journalistic integrity, ensuring that facts are presented exactly as they are, without distortion or bias. Whether the topic leans left, right, or somewhere in between, we believe that truth exists independently of politics and that it must be communicated clearly, honestly, and without agenda.
+As we mentioned before, if you are able to 
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+    <input type="hidden" name="hosted_button_id" value="YOUR_BUTTON_ID_HERE" />
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
