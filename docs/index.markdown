@@ -4,4 +4,4 @@
 layout: home
 ---
 
-{% include search-box.html %}
+{% include search.html %}
