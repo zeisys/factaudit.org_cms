@@ -40,11 +40,11 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Site | Screenshot | Explanation | Verdict |
 | ----------- | ----------- | ----------- | ----------- |
-| PolitiFact.org | | Gaslighting | Thumbs Down |
-| FactCheck.org | | Gaslighting | Thumbs Down |
-| Snopes.com |||
-| Poynter.org |||
-| MediaBiasFactCheck.com |||
+| PolitiFact.org | | Gaslighting | Fabrication |
+| FactCheck.org | | Gaslighting | Misinterpretation |
+| Snopes.com || Probable Fact |
+| Poynter.org || Distortion |
+| MediaBiasFactCheck.com || Deception |
 
 ### How we Categorize Fact Checks from Absolute Falsehoods to Absolute Truths
 
