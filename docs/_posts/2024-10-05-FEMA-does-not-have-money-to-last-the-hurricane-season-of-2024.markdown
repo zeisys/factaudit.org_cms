@@ -25,9 +25,8 @@ In this section we break down the content into statements that are either true o
 | Statement | Rationale | Source of Info | T/F |
 | ----------- | ----------- | ----------- | ----------- |
 | We are meeting the immediate needs with the money that we have. | Statement is the fact | https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/ | True |
-| We are expecting another hurricane hitting. | Statement is the fact | https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/ | True |
-| FEMA does not have the funds to make it through the season. | Statement is the fact | https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/ | True |
-
+| We are expecting another hurricane hitting. | Statement is the fact | https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so | True |
+| FEMA does not have the funds to make it through the season. | Statement is the fact | https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/ | True |
 
 ### Preservation of Source
 
@@ -35,6 +34,6 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | YouTube Video @1 hour 07 minutes, 54 seconds | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | [YouTube Video](https://www.youtube.com/live/QOENNClIqbQ?si=wq61LLO_dzsWm_9J&t=4074) | October 6, 2024 |
+| Statement | Press Gaggle by Alexandro Mayorkas | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | [Alexandro Mayorkas Statement](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/)) | October 2, 2024 |
 
 ### Audit of Other Fact Checking Sites
