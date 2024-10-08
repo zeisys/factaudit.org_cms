@@ -40,8 +40,8 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Site | Screenshot | Explanation | Verdict |
 | ----------- | ----------- | ----------- | ----------- |
-| Politifact.org | | Gaslighting | Thumbs Down |
+| PolitiFact.org | | Gaslighting | Thumbs Down |
 | FactCheck.org | | Gaslighting | Thumbs Down |
 | Snopes.com |||
 | Poynter.org |||
-| mediabiasfactcheck.com |||
+| MediaBiasFactCheck.com |||
