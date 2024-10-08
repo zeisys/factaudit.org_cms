@@ -429,5 +429,4 @@ var _$src_8 = {};
     throw new Error('SimpleJekyllSearch --- ' + message)
   }
 })(window)
-
 }());
