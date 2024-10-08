@@ -40,11 +40,11 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Site | Check Date | Screenshot | Explanation | Verdict |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| PolitiFact.org | Oct 5, 2024 | | Gaslighting | Fabrication |
-| FactCheck.org | Oct 5, 2024 | | Gaslighting | Misinterpretation |
-| Snopes.com | Oct 5, 2024 ||| Probable Fact |
-| Poynter.org | Oct 5, 2024 ||| Distortion |
-| MediaBiasFactCheck.com | Oct 5, 2024 ||| Deception |
+| PolitiFact.org | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | Gaslighting | Fabrication |
+| FactCheck.org | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | Gaslighting | Misinterpretation |
+| Snopes.com | Oct 5, 2024 |![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || Probable Fact |
+| Poynter.org | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || Distortion |
+| MediaBiasFactCheck.com | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || Deception |
 
 ### How we Categorize Fact Checks from Absolute Falsehoods to Absolute Truths
 
