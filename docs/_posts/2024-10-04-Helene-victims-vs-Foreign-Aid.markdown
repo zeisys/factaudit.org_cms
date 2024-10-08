@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Helene victims vs Foreign Aid"
-date:   2024-10-04 16:27:35 -0400
+date:   2024-10-06 16:27:35 -0400
 categories: Politics
 ---
 
@@ -14,9 +14,9 @@ In this section we focus on the person who communicated the fact, method, place,
 | Spec | Desc | Info |
 | ----------- | ----------- | ----------- |
 | **WHO** | Donald Trump, Presidential Candidate for Democratic Party | Spoken |
-| **WHEN** | October 2, 2024 | Press Release |
-| **WHERE** | Helene Landfall Area | Augusta, GA |
-| **WHAT** | They’re offering them $750, to people whose homes have been washed away. And yet we send tens of billions of dollars to foreign countries that most people have never heard of. They’re offering them $750. They’ve been destroyed, these people have been destroyed. Think of it: We give foreign countries hundreds of billions of dollars and we’re handing North Carolina $750.|
+| **WHEN** | October 5, 2024 | Rally |
+| **WHERE** | MAGA Rally | Butler, PA |
+| **WHAT** | They’re offering them $750, to people whose homes have been washed away. And yet we send tens of billions of dollars to foreign countries that most people have never heard of. They’re offering them $750. They’ve been destroyed, these people have been destroyed. Think of it: We give foreign countries hundreds of billions of dollars and we’re handing North Carolina $750. |
 
 ### Audit
 
@@ -35,6 +35,6 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | YouTube Video @28 minutes, 15 seconds | ![Temporary Protected Status law for Haiti has been there since 1990](/posts/images/Temporary-Protected-Status-law-for-Haiti-has-been-there-since-1990.jpg) |  [YouTube Video](https://www.youtube.com/live/VAGZGQg31hs&t=1695) | October 5, 2024 |
+| Video | YouTube Video @1 hour 07 minutes, 54 seconds | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | [YouTube Video](https://www.youtube.com/live/QOENNClIqbQ?si=wq61LLO_dzsWm_9J&t=4074) | October 6, 2024 |
 
 ### Audit of Other Fact Checking Sites
