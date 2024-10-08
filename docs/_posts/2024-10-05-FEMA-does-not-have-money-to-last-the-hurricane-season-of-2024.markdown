@@ -34,7 +34,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Statement | Press Gaggle by Alexandro Mayorkas | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | [Alexandro Mayorkas Statement](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/)) | October 2, 2024 |
+| Statement | Press Gaggle by Alexandro Mayorkas | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | [Alexandro Mayorkas Statement](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | October 2, 2024 |
 
 ### Audit of Other Fact Checking Sites
 
