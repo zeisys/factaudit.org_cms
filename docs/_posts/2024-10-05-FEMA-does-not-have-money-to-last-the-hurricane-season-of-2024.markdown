@@ -45,16 +45,3 @@ In this section we create traceability to the source of the fact or fiction.
 | Snopes.com | Oct 5, 2024 |![Snopes](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || ![Absolute Truth](/assets/images/a+.png)   |
 | Poynter.org | Oct 5, 2024 | ![Poynter](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || ![Fabrication](/assets/images/f.png) |
 | MediaBiasFactCheck.com | Oct 5, 2024 | ![MediaBiasFactCheck](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || Deception |
-
-### How we Categorize Fact Checks from Absolute Falsehoods to Absolute Truths
-
-1. Fabrication – Complete invention with no basis in reality.
-2. Deception – Deliberate misrepresentation of the truth to mislead.
-3. Distortion – Twisting or exaggerating certain aspects of the truth.
-4. Misinterpretation – Incorrect or biased understanding of facts, often unintentional.
-5. Speculation – Assumptions or guesses made without sufficient evidence.
-6. Incomplete Fact – Partial truth that omits critical details.
-7. Anecdotal Evidence – Truth based on isolated or personal experiences, not universally applicable.
-8. Probable Fact – Supported by strong evidence but not definitively proven.
-9. Verified Fact – Truth backed by multiple credible sources and evidence.
-10. Absolute Truth – A fact that is universally accepted and irrefutable.
