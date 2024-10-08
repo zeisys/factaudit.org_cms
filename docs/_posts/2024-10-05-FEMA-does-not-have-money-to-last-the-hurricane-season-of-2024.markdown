@@ -37,3 +37,11 @@ In this section we create traceability to the source of the fact or fiction.
 | Statement | Press Gaggle by Alexandro Mayorkas | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | [Alexandro Mayorkas Statement](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/)) | October 2, 2024 |
 
 ### Audit of Other Fact Checking Sites
+
+| Site | Screenshot | Explanation | Verdict |
+| ----------- | ----------- | ----------- | ----------- |
+| Politifact.org | | Gaslighting | Thumbs Down |
+| FactCheck.org | | Gaslighting | Thumbs Down |
+| Snopes.com |||
+| Poynter.org |||
+| mediabiasfactcheck.com |||
