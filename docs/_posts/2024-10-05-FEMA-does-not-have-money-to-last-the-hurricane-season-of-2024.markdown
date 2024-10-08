@@ -40,7 +40,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Site | Check Date | Screenshot | Explanation | Verdict |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| PolitiFact.org | Oct 5, 2024 | ![PolitiFact](/assets/images/docs/posts/images/2024-10-05-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-PolitiFact.png) | Gaslighting | Fabrication |
+| PolitiFact.org | Oct 5, 2024 | ![PolitiFact](/posts/images/2024-10-05-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-PolitiFact.png) | Gaslighting | Fabrication |
 | FactCheck.org | Oct 5, 2024 | ![FactCheck](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | Gaslighting | Misinterpretation |
 | Snopes.com | Oct 5, 2024 |![Snopes](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || ![Absolute Truth](/assets/images/a+.png)   |
 | Poynter.org | Oct 5, 2024 | ![Poynter](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || ![Fabrication](/assets/images/f.png) |
