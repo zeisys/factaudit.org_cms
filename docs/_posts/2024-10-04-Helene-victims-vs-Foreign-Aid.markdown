@@ -5,7 +5,7 @@ date:   2024-10-04 16:27:35 -0400
 categories: Politics
 ---
 
-![100% True](/assets/images/100.jpg)
+![80% True](/assets/images/80.jpg)
 
 ### Fact / Fiction
 
@@ -26,7 +26,7 @@ In this section we break down the content into statements that are either true o
 | ----------- | ----------- | ----------- | ----------- |
 | They’re offering them $750 to people whose homes have been washed away. | The $750 is under the Federal Emergency Management Agency’s Serious Needs Assistance program, which covers immediate needs after a disaster, including “food, water, baby formula, breastfeeding supplies, medication and other emergency supplies.” Through this program, the White House said, FEMA paid out more than $1 million to more than 1,400 North Carolina households within a day.| [CONGRESS.gov Immigration Act of 1990](https://www.congress.gov/bill/101st-congress/senate-bill/358) | True |
 | and we’re handing North Carolina $750. | As of Oct. 4, FEMA said the Biden administration provided more than $45 million “in flexible, up-front funding” to Hurricane Helene survivors. The agency said it has provided more than 11.5 million meals, 3.32 million gallons of water, 150 generators and 400,000 tarps to the affected region. On Oct. 2, in Augusta, Georgia, Harris said FEMA was also providing funding for home repairs and hotel costs.| [CONGRESS.gov Immigration Act of 1990](https://www.congress.gov/bill/101st-congress/senate-bill/358) | False |
-| And yet we send tens of billions of dollars to foreign countries that most people have never heard of. | Ukraine has received a total of $174 Billion since 2021 January | [FOREIGN ASSISTANCE.gov](https://foreignassistance.gov/cd/ukraine/) | True |
+| And yet we send tens of billions of dollars to foreign countries that most people have never heard of. | Ukraine has received a total of $174 Billion since 2021 January, due to the Russian invasion, covering military, economic, and humanitarian needs. | [FOREIGN ASSISTANCE.gov](https://foreignassistance.gov/cd/ukraine/) | True |
 | Think of it: We give foreign countries hundreds of billions of dollars | More than $140 billion has been provided to countries like Ethiopia, Afghanistan, Yemen, Jordan, and Egypt (more than $1 billion each year during this period) mostly for humanitarian and military purposes. | [FOREIGN ASSISTANCE.gov](https://foreignassistance.gov) | True |
 
 ### Preservation of Source
