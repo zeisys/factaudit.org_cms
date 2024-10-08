@@ -42,7 +42,7 @@ In this section we create traceability to the source of the fact or fiction.
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | PolitiFact.org | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | Gaslighting | Fabrication |
 | FactCheck.org | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) | Gaslighting | Misinterpretation |
-| Snopes.com | Oct 5, 2024 |![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || Probable Fact :white_check_mark: |
+| Snopes.com | Oct 5, 2024 |![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || ![Absolute Truth](/assets/images/a+.png)   |
 | Poynter.org | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || Distortion |
 | MediaBiasFactCheck.com | Oct 5, 2024 | ![Helene victims vs Foreign Aid](/posts/images/Helene-victims-vs-Foreign-Aid.jpg) || Deception |
 
