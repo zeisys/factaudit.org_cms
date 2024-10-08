@@ -38,13 +38,13 @@ In this section we create traceability to the source of the fact or fiction.
 
 ### Audit of Other Fact Checking Sites
 
-| Site | Screenshot | Explanation | Verdict |
-| ----------- | ----------- | ----------- | ----------- |
-| PolitiFact.org | | Gaslighting | Fabrication |
-| FactCheck.org | | Gaslighting | Misinterpretation |
-| Snopes.com ||| Probable Fact |
-| Poynter.org ||| Distortion |
-| MediaBiasFactCheck.com ||| Deception |
+| Site | Check Date | Screenshot | Explanation | Verdict |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| PolitiFact.org | Oct 5, 2024 | | Gaslighting | Fabrication |
+| FactCheck.org | Oct 5, 2024 | | Gaslighting | Misinterpretation |
+| Snopes.com | Oct 5, 2024 ||| Probable Fact |
+| Poynter.org | Oct 5, 2024 ||| Distortion |
+| MediaBiasFactCheck.com | Oct 5, 2024 ||| Deception |
 
 ### How we Categorize Fact Checks from Absolute Falsehoods to Absolute Truths
 
