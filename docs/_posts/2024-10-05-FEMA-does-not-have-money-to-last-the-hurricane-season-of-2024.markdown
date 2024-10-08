@@ -48,13 +48,13 @@ In this section we create traceability to the source of the fact or fiction.
 
 ### How we Categorize Fact Checks from Absolute Falsehoods to Absolute Truths
 
-Fabrication – Complete invention with no basis in reality.
-Deception – Deliberate misrepresentation of the truth to mislead.
-Distortion – Twisting or exaggerating certain aspects of the truth.
-Misinterpretation – Incorrect or biased understanding of facts, often unintentional.
-Speculation – Assumptions or guesses made without sufficient evidence.
-Incomplete Fact – Partial truth that omits critical details.
-Anecdotal Evidence – Truth based on isolated or personal experiences, not universally applicable.
-Probable Fact – Supported by strong evidence but not definitively proven.
-Verified Fact – Truth backed by multiple credible sources and evidence.
-Absolute Truth – A fact that is universally accepted and irrefutable.
+1. Fabrication – Complete invention with no basis in reality.
+2. Deception – Deliberate misrepresentation of the truth to mislead.
+3. Distortion – Twisting or exaggerating certain aspects of the truth.
+4. Misinterpretation – Incorrect or biased understanding of facts, often unintentional.
+5. Speculation – Assumptions or guesses made without sufficient evidence.
+6. Incomplete Fact – Partial truth that omits critical details.
+7. Anecdotal Evidence – Truth based on isolated or personal experiences, not universally applicable.
+8. Probable Fact – Supported by strong evidence but not definitively proven.
+9. Verified Fact – Truth backed by multiple credible sources and evidence.
+10. Absolute Truth – A fact that is universally accepted and irrefutable.
