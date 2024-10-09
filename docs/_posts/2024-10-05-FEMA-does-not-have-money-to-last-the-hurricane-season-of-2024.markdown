@@ -2,7 +2,7 @@
 layout: post
 title:  "FEMA does not have money to last the hurricane season of 2024"
 date:   2024-10-05 16:27:35 -0400
-categories: Politics
+categories: Politics, Diasters, Hurricane
 ---
 
 ![80% True](/assets/images/80.jpg)
