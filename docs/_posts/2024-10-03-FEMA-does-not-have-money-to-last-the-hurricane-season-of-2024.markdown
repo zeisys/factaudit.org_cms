@@ -5,7 +5,7 @@ date: 2024-10-03 12:00:00 -0400
 tags: Politics News Disaster Hurricane FEMA Homeland Security White House
 ---
 
-![100% True](/assets/images/100.jpg
+![100% True](/assets/images/100.jpg)
 
 ### Fact / Fiction
 
