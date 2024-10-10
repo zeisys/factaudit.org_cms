@@ -8,18 +8,11 @@ permalink: /our-donors.html
 
 Below is a list of all donors who have contributed more than $1,000 in the past five years:
 
-1. John Smith, Unknown Organization $1299 on 1/1/2023
-2. Mary Johnson, Unknown Organization $1500 on 1/1/2024
-3. Global Trust Foundation Total $1100 between 1/1/2023 and 5/1/2024 
-4. Thomas Anderson, Unknown Organization $1500 on 1/1/2024
-5. Jane Doe, Unknown Organization $1500 on 1/1/2024
-6. Open Knowledge Initiative $1500 on 1/1/2024
-
 | Donor Name | Organization | Amount | Start Date | End Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| John Smith | | $1299 | 2023-01-01 | 2023-01-01 |
-| Mary Johnson | | $1500 | 2023-01-01 | 2023-01-01 |
-| | Global Trust Foundation | $2999 | 2023-01-01 | 2023-01-01 |
-| Thomas Anderson | | $1299 | 2023-01-01 | 2023-01-01 |
-| Jane Doe | | $1299 | 2023-01-01 | 2023-01-01 |
-| | Open Knowledge Initiative | $1299 | 2023-01-01 | 2023-01-01 |
+| John Smith | n/a | $1299 | 2023-01-01 | 2023-01-01 |
+| Mary Johnson | n/a | $1500 | 2023-01-01 | 2023-01-01 |
+| n/a | Global Trust Foundation | $2999 | 2023-01-01 | 2023-01-01 |
+| Thomas Anderson | n/a | $1299 | 2023-01-01 | 2023-01-01 |
+| Jane Doe | n/a | $1299 | 2023-01-01 | 2023-01-01 |
+| n/a | Open Knowledge Initiative | $1299 | 2023-01-01 | 2023-01-01 |
