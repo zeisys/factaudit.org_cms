@@ -14,3 +14,7 @@ Below is a list of all donors who have contributed more than $1,000 in the past 
 4. Thomas Anderson, Unknown Organization $1500 on 1/1/2024
 5. Jane Doe, Unknown Organization $1500 on 1/1/2024
 6. Open Knowledge Initiative $1500 on 1/1/2024
+
+| Donor Name | Organization | Amount | Start Date | End Date |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| John Smith| | $1299 | 2023-01-01 | 2023-01-01 |
