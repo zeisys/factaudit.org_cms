@@ -17,4 +17,9 @@ Below is a list of all donors who have contributed more than $1,000 in the past 
 
 | Donor Name | Organization | Amount | Start Date | End Date |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| John Smith| | $1299 | 2023-01-01 | 2023-01-01 |
+| John Smith | | $1299 | 2023-01-01 | 2023-01-01 |
+| Mary Johnson | | $1500 | 2023-01-01 | 2023-01-01 |
+| | Global Trust Foundation | $2999 | 2023-01-01 | 2023-01-01 |
+| Thomas Anderson | | $1299 | 2023-01-01 | 2023-01-01 |
+| Jane Doe | | $1299 | 2023-01-01 | 2023-01-01 |
+| | Open Knowledge Initiative | $1299 | 2023-01-01 | 2023-01-01 |
