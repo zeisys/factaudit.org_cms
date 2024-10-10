@@ -42,8 +42,8 @@ In this section we see what other fact checking sites say about this fact and au
 
 | Site | Check Date | Screenshot | Explanation | Grade | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| PolitiFact.org | 2024-10-05 | Screenshot 2024-10-08 at 7.41.04 PM | They are honest | A+ | 
-| FactCheck.org | 2024-10-05 | Screenshot 2024-10-08 at 7.45.04 PM | They are gaslighting | C | 
-| Snopes.com | 2024-10-05 | Screenshot 2024-10-08 at 7.50.04 PM | They have no opinion | D | 
-| Poynter.org | 2024-10-05 | Screenshot 2024-10-08 at 7.53.04 PM | Absolute bullshit | F | 
-| MediaBiasFactCheck.com | 2024-10-05 | Screenshot 2024-10-08 at 7.57.04 PM | Deceptive presentation | D | 
+| PolitiFact.org | 2024-10-05 | Screenshot 2024-10-08 at 7.41.04 PM | They are honest | ![Grade](/assets/images/0.png) | 
+| FactCheck.org | 2024-10-05 | Screenshot 2024-10-08 at 7.45.04 PM | They are gaslighting | ![Grade](/assets/images/2.png) | 
+| Snopes.com | 2024-10-05 | Screenshot 2024-10-08 at 7.50.04 PM | They have no opinion | ![Grade](/assets/images/3.png) | 
+| Poynter.org | 2024-10-05 | Screenshot 2024-10-08 at 7.53.04 PM | Absolute bullshit | ![Grade](/assets/images/7.png) | 
+| MediaBiasFactCheck.com | 2024-10-05 | Screenshot 2024-10-08 at 7.57.04 PM | Deceptive presentation | ![Grade](/assets/images/9.png) | 
