@@ -31,7 +31,7 @@ In this section we break down the content into statements that are either true o
 | Wikipedia is not a reliable source | Interpretation from University | [Harvard university.edu](https://usingsources.fas.harvard.edu/what’s-wrong-wikipedia) | True |
 | Wikipedia is not a reliable source | Interpretation from University | [Kansas university.edu](https://opentext.ku.edu/) | True |
 | Wikipedia is not a reliable source | Interpretation from University  | [Georgetown university.edu](https://library.georgetown.edu/evaluating-internet-resources)) | True |
-| Wikipedia is not a reliable source | Interpretation from University  | [University of Dayton.edu](https://udayton.edu/magazine/2023/03/wikipedia.php)) | True |
+| Wikipedia is not a reliable source | Interpretation from University  | [University of Dayton.edu](https://udayton.edu/magazine/2023/03/wikipedia.php) | True |
 | Wikipedia is not a reliable source | Interpretation from University  | [Independant](https://www.independent.co.uk/news/long_reads/wikipedia-explained-what-is-it-trustworthy-how-work-wikimedia-2030-a8213446.html) | True |
 | Wikipedia is not a reliable source | Interpretation from University  | [DW](https://www.dw.com/en/fact-check-as-wikipedia-turns-20-how-credible-is-it/a-56228222) | True |
 | Wikipedia is not a reliable source | Interpretation from University  | [Washington Post](https://www.washingtonpost.com/politics/2021/02/24/wikipedias-political-science-coverage-is-biased-i-tried-fix-it/) | True |
