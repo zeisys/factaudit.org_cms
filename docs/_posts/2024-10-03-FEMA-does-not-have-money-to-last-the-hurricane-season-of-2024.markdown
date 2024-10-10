@@ -24,9 +24,9 @@ In this section we break down the content into statements that are either true o
 
 | Statement | Rationale | Source of Info | T/F | 
 | ----------- | ----------- | ----------- | ----------- |
-| We are meeting the immediate needs with the money that we have. | Statement is fact | [WHITEHOUSE.gov Letter to Congress](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/) | ![True](/assets/images/true.png) | 
-| We are expecting another hurricane hitting. | Statement is fact | [COMMERCE.gov Hurricane Milton Advice](https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so) | ![True](/assets/images/true.png) | 
-| FEMA does not have the funds to make it through the season. | Statement is fact | [HOUSE.gov Statement by Homeland Security Chairman Green](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/) | ![True](/assets/images/true.png) | 
+| We are meeting the immediate needs with the money that we have. | Statement is fact | [Letter to Congress on Dis..](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/) | ![True](/assets/images/true.png) | 
+| We are expecting another hurricane hitting. | Statement is fact | [Hurricane Milton: Follow ..](https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so) | ![True](/assets/images/true.png) | 
+| FEMA does not have the funds to make it through the season. | Statement is fact | [Chairman Green on Secreta..](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/) | ![True](/assets/images/true.png) | 
 
 ### Preservation of Source
 
@@ -34,7 +34,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Statement | Press Gaggle by Alexandro Mayorkas | Screenshot 2024-10-08 at 7.39.04 PM | [WHITEHOUSE.gov Briefing Room](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
+| Statement | Press Gaggle by Alexandro Mayorkas | Screenshot 2024-10-08 at 7.39.04 PM | [Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
 
 ### Audit of Other Fact Checking Sites
 
@@ -46,4 +46,4 @@ In this section we see what other fact checking sites say about this fact and au
 | FactCheck.org | 2024-10-05 | Screenshot 2024-10-08 at 7.45.04 PM | They are gaslighting | ![Grade](/assets/images/3.png) | 
 | Snopes.com | 2024-10-05 | Screenshot 2024-10-08 at 7.50.04 PM | They have no opinion | ![Grade](/assets/images/1.png) | 
 | Poynter.org | 2024-10-05 | Screenshot 2024-10-08 at 7.53.04 PM | Absolute bullshit | ![Grade](/assets/images/0.png) | 
-| MediaBiasFactCheck.com | 2024-10-05 | Screenshot 2024-10-08 at 7.57.04 PM | Deceptive presentation | ![Grade](/assets/images/1.png) |
+| MediaBiasFactCheck.com | 2024-10-05 | Screenshot 2024-10-08 at 7.57.04 PM | Deceptive presentation | ![Grade](/assets/images/1.png) | 
