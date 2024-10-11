@@ -34,7 +34,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Statement | Press Gaggle by Alexandro Mayorkas | Screenshot 2024-10-08 at 7.39.04 PM | [Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
+| Statement | Press Gaggle by Alexandro Mayorkas | ![samplesourcepreservationimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-samplesourcepreservationimage.jpg) | [Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
 
 ### Audit of Other Fact Checking Sites
 
@@ -42,8 +42,8 @@ In this section we see what other fact checking sites say about this fact and au
 
 | Site | Check Date | Screenshot | Explanation | Grade | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| PolitiFact.org | 2024-10-05 | Screenshot 2024-10-08 at 7.41.04 PM | They are honest | ![Grade](/assets/images/10.png) | 
-| FactCheck.org | 2024-10-05 | Screenshot 2024-10-08 at 7.45.04 PM | They are gaslighting | ![Grade](/assets/images/3.png) | 
-| Snopes.com | 2024-10-05 | Screenshot 2024-10-08 at 7.50.04 PM | They have no opinion | ![Grade](/assets/images/1.png) | 
-| Poynter.org | 2024-10-05 | Screenshot 2024-10-08 at 7.53.04 PM | Absolute bullshit | ![Grade](/assets/images/0.png) | 
-| MediaBiasFactCheck.com | 2024-10-05 | Screenshot 2024-10-08 at 7.57.04 PM | Deceptive presentation | ![Grade](/assets/images/1.png) | 
+| PolitiFact.org | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | They are honest | ![Grade](/assets/images/10.png) | 
+| FactCheck.org | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | They are gaslighting | ![Grade](/assets/images/3.png) | 
+| Snopes.com | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | They have no opinion | ![Grade](/assets/images/1.png) | 
+| Poynter.org | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | Absolute bullshit | ![Grade](/assets/images/0.png) | 
+| MediaBiasFactCheck.com | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | Deceptive presentation | ![Grade](/assets/images/1.png) |
