@@ -79,7 +79,7 @@
             "Check Date": "2024-10-02",
             "Screenshot": "![factcheck](/posts/images/2024-10-02-2021-was-worst-unemployment-since-great-depression-factcheck.png)",
             "Explanation": "The report just focuses on lack of context",
-            "Grade": "3"
+            "Grade": "![Grade](/assets/images/3.png)"
         },
         {
             "Site": "Snopes.com",
@@ -93,14 +93,14 @@
             "Check Date": "2024-10-02",
             "Screenshot": "![poynter](/posts/images/2024-10-02-2021-was-worst-unemployment-since-great-depression-poynter.png)",
             "Explanation": "Skips this fact check",
-            "Grade": "0"
+            "Grade": "![Grade](/assets/images/0.png)"
         },
         {
             "Site": "MediaBiasFactCheck.com",
             "Check Date": "2024-10-02",
             "Screenshot": "![mediabias](/posts/images/2024-10-02-2021-was-worst-unemployment-since-great-depression-mediabias.png)",
             "Explanation": "Very generic and broad analysis",
-            "Grade": "5"
+            "Grade": "![Grade](/assets/images/5.png)"
         }
     ]
 }
