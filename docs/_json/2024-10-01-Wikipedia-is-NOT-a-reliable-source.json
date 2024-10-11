@@ -1,0 +1,98 @@
+{
+    "Title": "Wikipedia is NOT a reliable source",
+    "Date": "2024-10-01",
+    "Percent": "![100% True](/assets/images/100.jpg)",
+    "Tags": [
+        "News",
+        "Reliability",
+        "Wikipedia"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Wikipedia User, Jeff G.",
+            "Info": "Written"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2011-08-11",
+            "Info": "8:39PM EDT"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "Wikipedia.org",
+            "Info": "New Page"
+        },
+        {
+            "Spec": "What",
+            "Desc": "Wikipedia is NOT a reliable source",
+            "Info": "Page Title"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "Wikipedia is not a reliable source",
+            "Rationale": "Direct statement from Wikipedia",
+            "Source of Info": "[Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_reliable_source)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Wikipedia is not a reliable source.",
+            "Rationale": "Summary of the story",
+            "Source of Info": "[US Dept of Education](https://files.eric.ed.gov/fulltext/ED522722.pdf)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Wikipedia is not a reliable source.",
+            "Rationale": "Statement is fact",
+            "Source of Info": "[Central Intelligence Agency](https://www.cia.gov/resources/csi/static/complex-adaptive-intel-community.pdf)",
+            "T/F": "![True](/assets/images/true.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Web Page",
+            "Source": "Wikipedia.org",
+            "Screenshot": "Screenshot 2024-10-11 at 1.50.55 PM.png",
+            "Link": "[Wikipedia:Wikipedia is no..](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_reliable_source)",
+            "Link Valid Date": "2024-10-01"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        }
+    ]
+}
