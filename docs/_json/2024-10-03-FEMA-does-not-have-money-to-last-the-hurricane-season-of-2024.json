@@ -1,0 +1,102 @@
+{
+    "Title": "FEMA does not have money to last the hurricane season of 2024",
+    "Date": "2024-10-03",
+    "Percent": "100",
+    "Tags": [
+        "Politics",
+        "News",
+        "Disaster",
+        "Hurricane",
+        "FEMA",
+        "Homeland Security",
+        "White House"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Alexandro Mayorkas, Secretary of Homeland Security",
+            "Info": "Spoken"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2024-10-03",
+            "Info": "1:36 PM EDT"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "White House",
+            "Info": "Washington, DC"
+        },
+        {
+            "Spec": "What",
+            "Desc": "We are meeting the immediate needs with the money that we have. We are expecting another hurricane hitting. FEMA does not have the funds to make it through the season.",
+            "Info": "White House Press Conference on Hurricane Helene "
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "We are meeting the immediate needs with the money that we have.",
+            "Rationale": "Statement is fact",
+            "Source of Info": "[FEMA does not have money ..](https://budget.house.gov/imo/media/doc/hearing_weap-up.pdf)",
+            "T/F": "True"
+        },
+        {
+            "Statement": "We are expecting another hurricane hitting.",
+            "Rationale": "Statement is fact",
+            "Source of Info": "[Hurricane Milton: Follow ..](https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so)",
+            "T/F": "True"
+        },
+        {
+            "Statement": "FEMA does not have the funds to make it through the season.",
+            "Rationale": "Statement is fact",
+            "Source of Info": "[Chairman Green on Secreta..](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/)",
+            "T/F": "True"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Statement",
+            "Source": "Press Gaggle by Alexandro Mayorkas",
+            "Screenshot": "![Screenshot 2024-10-02 at 6](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-Screenshot-2024-10-02-at-6.58.39 PM.jpg)",
+            "Link": "[Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/)",
+            "Link Valid Date": "2024-10-05"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "2024-10-05",
+            "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
+            "Explanation": "They are honest",
+            "Grade": "10"
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "2024-10-05",
+            "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
+            "Explanation": "They are gaslighting",
+            "Grade": "3"
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "2024-10-05",
+            "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
+            "Explanation": "They have no opinion",
+            "Grade": "1"
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "2024-10-05",
+            "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
+            "Explanation": "Absolute bullshit",
+            "Grade": "0"
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "2024-10-05",
+            "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
+            "Explanation": "Deceptive presentation",
+            "Grade": "1"
+        }
+    ]
+}
