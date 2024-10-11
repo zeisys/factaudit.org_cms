@@ -24,7 +24,7 @@ In this section we break down the content into statements that are either true o
 
 | Statement | Rationale | Source of Info | T/F | 
 | ----------- | ----------- | ----------- | ----------- |
-| We are meeting the immediate needs with the money that we have. | Statement is fact | [hearing_weap-up.pdf](https://budget.house.gov/imo/media/doc/hearing_weap-up.pdf) | ![True](/assets/images/true.png) | 
+| We are meeting the immediate needs with the money that we have. | Statement is fact | [FEMA does not have money ..](https://budget.house.gov/imo/media/doc/hearing_weap-up.pdf) | ![True](/assets/images/true.png) | 
 | We are expecting another hurricane hitting. | Statement is fact | [Hurricane Milton: Follow ..](https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so) | ![True](/assets/images/true.png) | 
 | FEMA does not have the funds to make it through the season. | Statement is fact | [Chairman Green on Secreta..](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/) | ![True](/assets/images/true.png) | 
 
@@ -46,4 +46,5 @@ In this section we see what other fact checking sites say about this fact and au
 | FactCheck.org | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | They are gaslighting | ![Grade](/assets/images/3.png) | 
 | Snopes.com | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | They have no opinion | ![Grade](/assets/images/1.png) | 
 | Poynter.org | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | Absolute bullshit | ![Grade](/assets/images/0.png) | 
-| MediaBiasFactCheck.com | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | Deceptive presentation | ![Grade](/assets/images/1.png) |
+| MediaBiasFactCheck.com | 2024-10-05 | ![sampleauditofotherfaccheckersimage](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-sampleauditofotherfaccheckersimage.jpg) | Deceptive presentation | ![Grade](/assets/images/1.png) | 
+
