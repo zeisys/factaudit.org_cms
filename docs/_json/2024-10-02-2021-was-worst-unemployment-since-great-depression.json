@@ -1,0 +1,106 @@
+{
+    "Title": "2021 was worst unemployment since great depression",
+    "Date": "2024-10-02",
+    "Percent": "![0% True](/assets/images/0.jpg)",
+    "Tags": [
+        "News",
+        "Unemployment",
+        "Kamala Harris",
+        "Great Depression",
+        "Economy"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Kamala Harris",
+            "Info": "VP Candidate for Democratic Party"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2024-09-17",
+            "Info": "2:30PM EDT"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "National Association of Black Journalists (NABJ)",
+            "Info": "Philadelphia, PA"
+        },
+        {
+            "Spec": "What",
+            "Desc": "Four years ago when we came in, we came in during the worst unemployment since the great depression",
+            "Info": "Conversation"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "Unemployment rate in January 2021 was 6.4%",
+            "Rationale": "Data",
+            "Source of Info": "[Bureau of Labor Statistics](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Unemployment rate in 1921 was 23.1%",
+            "Rationale": "Data",
+            "Source of Info": "[Social Security Administration](https://www.ssa.gov/history/reports/ces/cesbookc3.html)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Unemployment rate in 1921 was 25%",
+            "Rationale": "Data",
+            "Source of Info": "[Department of Labor](https://www.dol.gov/general/aboutdol/history/chapter5)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Biden Harris administration inaugurated on January 20, 2021",
+            "Rationale": "Speech",
+            "Source of Info": "[White House](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/20/inaugural-address-by-president-joseph-r-biden-jr/)",
+            "T/F": "![True](/assets/images/true.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Video",
+            "Source": "YouTube.com",
+            "Screenshot": "youtube.png",
+            "Link": "[NABJ Hosts a Conversation..](https://www.youtube.com/live/iIPXR2g8F18?si=WDc9ygC7sI1MLQOe&t=260)",
+            "Link Valid Date": "2024-10-02"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "2024-10-02",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "2024-10-02",
+            "Screenshot": "factcheck.png",
+            "Explanation": "The report just focuses on lack of context",
+            "Grade": "![Grade](/assets/images/3.png)"
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "2024-10-02",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "2024-10-02",
+            "Screenshot": "poynter.png",
+            "Explanation": "Skips this fact check",
+            "Grade": "![Grade](/assets/images/0.png)"
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "2024-10-02",
+            "Screenshot": "mediabias.png",
+            "Explanation": "Very generic and broad analysis",
+            "Grade": "![Grade](/assets/images/5.png)"
+        }
+    ]
+}
