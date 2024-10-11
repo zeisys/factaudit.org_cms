@@ -38,19 +38,19 @@
             "Statement": "We are meeting the immediate needs with the money that we have.",
             "Rationale": "Statement is fact",
             "Source of Info": "[FEMA does not have money ..](https://budget.house.gov/imo/media/doc/hearing_weap-up.pdf)",
-            "T/F": "True"
+            "T/F": "![True](/assets/images/true.png)"
         },
         {
             "Statement": "We are expecting another hurricane hitting.",
             "Rationale": "Statement is fact",
             "Source of Info": "[Hurricane Milton: Follow ..](https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so)",
-            "T/F": "True"
+            "T/F": "![True](/assets/images/true.png)"
         },
         {
             "Statement": "FEMA does not have the funds to make it through the season.",
             "Rationale": "Statement is fact",
             "Source of Info": "[Chairman Green on Secreta..](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/)",
-            "T/F": "True"
+            "T/F": "![True](/assets/images/true.png)"
         }
     ],
     "Preservation of Source": [
@@ -68,35 +68,35 @@
             "Check Date": "2024-10-05",
             "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
             "Explanation": "They are honest",
-            "Grade": "10"
+            "Grade": "![Grade](/assets/images/0.png)"
         },
         {
             "Site": "FactCheck.org",
             "Check Date": "2024-10-05",
             "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
             "Explanation": "They are gaslighting",
-            "Grade": "3"
+            "Grade": "![Grade](/assets/images/3.png)"
         },
         {
             "Site": "Snopes.com",
             "Check Date": "2024-10-05",
             "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
             "Explanation": "They have no opinion",
-            "Grade": "1"
+            "Grade": "![Grade](/assets/images/1.png)"
         },
         {
             "Site": "Poynter.org",
             "Check Date": "2024-10-05",
             "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
             "Explanation": "Absolute bullshit",
-            "Grade": "0"
+            "Grade": "![Grade](/assets/images/0.png)"
         },
         {
             "Site": "MediaBiasFactCheck.com",
             "Check Date": "2024-10-05",
             "Screenshot": "sampleauditofotherfaccheckersimage.jpg",
             "Explanation": "Deceptive presentation",
-            "Grade": "1"
+            "Grade": "![Grade](/assets/images/1.png)"
         }
     ]
 }
