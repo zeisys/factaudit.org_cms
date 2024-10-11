@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FEMA does NOT have money to last the hurricane season of 2024"
+title: "FEMA does not have money to last the hurricane season of 2024"
 date: 2024-10-03 12:00:00 -0400
 tags: Politics News Disaster Hurricane FEMA Homeland Security White House
 ---
@@ -24,7 +24,7 @@ In this section we break down the content into statements that are either true o
 
 | Statement | Rationale | Source of Info | T/F | 
 | ----------- | ----------- | ----------- | ----------- |
-| We are meeting the immediate needs with the money that we have. | Statement is fact | [Letter to Congress on Dis..](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/) | ![True](/assets/images/true.png) | 
+| We are meeting the immediate needs with the money that we have. | Statement is fact | [hearing_weap-up.pdf](https://budget.house.gov/imo/media/doc/hearing_weap-up.pdf) | ![True](/assets/images/true.png) | 
 | We are expecting another hurricane hitting. | Statement is fact | [Hurricane Milton: Follow ..](https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so) | ![True](/assets/images/true.png) | 
 | FEMA does not have the funds to make it through the season. | Statement is fact | [Chairman Green on Secreta..](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/) | ![True](/assets/images/true.png) | 
 
