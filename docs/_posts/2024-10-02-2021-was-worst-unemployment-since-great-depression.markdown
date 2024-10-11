@@ -35,7 +35,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | YouTube.com | Screenshot.png | [NABJ Hosts a Conversation..](https://www.youtube.com/live/iIPXR2g8F18?si=WDc9ygC7sI1MLQOe&t=260) | 2024-10-02 | 
+| Video | YouTube.com | Screenshot.png | [ - YouTube](https://www.youtube.com/live/iIPXR2g8F18?si=WDc9ygC7sI1MLQOe&t=260) | 2024-10-02 | 
 
 ### Audit of Other Fact Checking Sites
 
