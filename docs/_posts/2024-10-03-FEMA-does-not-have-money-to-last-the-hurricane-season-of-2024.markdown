@@ -34,7 +34,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Statement | Press Gaggle by Alexandro Mayorkas | ![Screenshot 2024-10-02 at 6.58.39 PM](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-Screenshot-2024-10-02-at-6.58.39 PM.jpg) | [Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
+| Statement | Press Gaggle by Alexandro Mayorkas | ![Screenshot 2024-10-02 at 6.58.39 PM](/posts/images/2024-10-03-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-Screenshot-2024-10-02-at-6.58.39-PM.jpg) | [Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
 
 ### Audit of Other Fact Checking Sites
 
