@@ -27,7 +27,7 @@ In this section we break down the content into statements that are either true o
 | Unemployment rate in January 2021 was 6.4% | Data | [Bureau of Labor Statistics](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm) | ![True](/assets/images/true.png) | 
 | Unemployment rate in 1921 was 23.1% | Data | [Social Security Administration](https://www.ssa.gov/history/reports/ces/cesbookc3.html) | ![True](/assets/images/true.png) | 
 | Unemployment rate in 1921 was 25% | Data | [Department of Labor](https://www.dol.gov/general/aboutdol/history/chapter5) | ![True](/assets/images/true.png) | 
-| Biden Harris administration inagurated on January 20, 2021 | Speech | [White House](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/20/inaugural-address-by-president-joseph-r-biden-jr/) | 
+| Biden Harris administration inagurated on January 20, 2021 | Speech | [White House](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/01/20/inaugural-address-by-president-joseph-r-biden-jr/) | ![True](/assets/images/true.png) | 
 
 ### Preservation of Source
 
