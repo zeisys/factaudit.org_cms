@@ -34,7 +34,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Web Page | Wikipedia.org | Screenshot 2024-10-11 at 1.50.55 PM.png | [Wikipedia:Wikipedia is no..](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_reliable_source) | 2024-10-01 | 
+| Web Page | Wikipedia.org | ![wikipedia-page](/posts/images/2024-10-01-Wikipedia-is-NOT-a-reliable-source-wikipedia-page.png) | [Wikipedia:Wikipedia is no..](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_reliable_source) | 2024-10-01 | 
 
 ### Audit of Other Fact Checking Sites
 
