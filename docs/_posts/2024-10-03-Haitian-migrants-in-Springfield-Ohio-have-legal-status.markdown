@@ -5,7 +5,7 @@ date: 2024-10-03 12:00:00 -0400
 tags: News Immigration Asylee Parolee Temporary Protected Status
 ---
 
-![![30% True](/assets/images/30.jpg)% True](/assets/images/![30% True](/assets/images/30.jpg).jpg)
+![30% True](/assets/images/30.jpg)
 
 ### Fact / Fiction
 
