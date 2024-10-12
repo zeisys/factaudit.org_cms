@@ -35,24 +35,18 @@
         {
             "Statement": "Springfield, OH has a large number of Haitian migrants",
             "Rationale": "Springfield OH Government website estimates approximately 12000-15000 of migrants in Clarke County. But there is no specific estimate how many of those migrants are Haitians.",
-            "Source of Info": "[Immigration FAQs | City o..](https://springfieldohio.gov/immigration-faqs/)",
+            "Source of Info": "[Springfield, OH has a large number of Haitian migrants](https://springfieldohio.gov/immigration-faqs/)",
             "T/F": "![False](/assets/images/false.png)"
         },
         {
-            "Statement": "Haitian migrants who have legal status",
+            "Statement": "Haitian migrants have legal status",
             "Rationale": "Haitian immigrants are in USA legally, under the Immigration Parole Program. Almost all Haitians have legal immigration status of a parolee. It is rational to estimate that Haitians migrants living in the USA have legal status.",
-            "Source of Info": "[Immigration FAQs | City o..](https://springfieldohio.gov/immigration-faqs/)",
+            "Source of Info": "[Haitian migrants have legal status](https://springfieldohio.gov/immigration-faqs/)",
             "T/F": "![True](/assets/images/true.png)"
         },
         {
-            "Statement": "Unemployment rate in 1921 was 25%",
-            "Rationale": "Data",
-            "Source of Info": "[Department of Labor](https://www.dol.gov/general/aboutdol/history/chapter5)",
-            "T/F": "![True](/assets/images/true.png)"
-        },
-        {
-            "Statement": "Biden Harris administration inagurated on January 20, 2021",
-            "Rationale": "Haitian migrants who have legal status temporary protected status | Haitian migrants can apply for three statuses in the USA. Asylum, Parole, and/or Temporary Protected Status (TPS). However, USCIS, CBP or DHS has not published any information on how many Haitian migrants have applied for TPS.",
+            "Statement": "Haitian migran have temporary protected status",
+            "Rationale": "Haitian migrants can apply for three statuses in the USA. Asylum, Parole, and/or Temporary Protected Status (TPS). However, USCIS, CBP or DHS has not published any information on how many Haitian migrants have applied for TPS.",
             "Source of Info": "[Temporary Protected Statu..](https://www.uscis.gov/humanitarian/temporary-protected-status)",
             "T/F": "![True](/assets/images/true.png)"
         }
@@ -61,7 +55,7 @@
         {
             "Type": "Video",
             "Source": "YouTube.com Video @27 minutes, 20 seconds",
-            "Screenshot": "![image](/posts/images/2024-10-01-Legal-status-of-Haitian-migrants-in-Springfield-Ohio-image.jpg)",
+            "Screenshot": "/posts/images/Legal-status-of-Haitian-migrants-in-Springfield-Ohio.jpg",
             "Link": "[Full debate: JD Vance and..](https://www.youtube.com/live/VAGZGQg31hs&t=1640)",
             "Link Valid Date": "2024-10-05"
         }
@@ -96,7 +90,7 @@
             "Grade": ""
         },
         {
-            "Site": "",
+            "Site": "MediaBiasFactCheck.com",
             "Check Date": "",
             "Screenshot": "",
             "Explanation": "",
