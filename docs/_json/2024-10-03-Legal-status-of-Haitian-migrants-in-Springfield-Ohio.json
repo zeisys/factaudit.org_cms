@@ -35,13 +35,13 @@
         {
             "Statement": "Springfield, OH has a large number of Haitian migrants",
             "Rationale": "Springfield OH Government website estimates approximately 12000-15000 of migrants in Clarke County. But there is no specific estimate how many of those migrants are Haitians.",
-            "Source of Info": "[Springfield, OH has a large number of Haitian migrants](https://springfieldohio.gov/immigration-faqs/)",
+            "Source of Info": "[Springfield, OH...](https://springfieldohio.gov/immigration-faqs/)",
             "T/F": "![False](/assets/images/false.png)"
         },
         {
             "Statement": "Haitian migrants have legal status",
             "Rationale": "Haitian immigrants are in USA legally, under the Immigration Parole Program. Almost all Haitians have legal immigration status of a parolee. It is rational to estimate that Haitians migrants living in the USA have legal status.",
-            "Source of Info": "[Haitian migrants have legal status](https://springfieldohio.gov/immigration-faqs/)",
+            "Source of Info": "[Haitian migrants...](https://springfieldohio.gov/immigration-faqs/)",
             "T/F": "![True](/assets/images/true.png)"
         },
         {

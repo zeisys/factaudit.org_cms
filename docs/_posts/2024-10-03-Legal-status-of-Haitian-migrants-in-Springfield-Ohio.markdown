@@ -24,8 +24,8 @@ In this section we break down the content into statements that are either true o
 
 | Statement | Rationale | Source of Info | T/F | 
 | ----------- | ----------- | ----------- | ----------- |
-| Springfield, OH has a large number of Haitian migrants | Springfield OH Government website estimates approximately 12000-15000 of migrants in Clarke County. But there is no specific estimate how many of those migrants are Haitians. | [Springfield, OH has a large number of Haitian migrants](https://springfieldohio.gov/immigration-faqs/) | ![False](/assets/images/false.png) | 
-| Haitian migrants have legal status | Haitian immigrants are in USA legally, under the Immigration Parole Program. Almost all Haitians have legal immigration status of a parolee. It is rational to estimate that Haitians migrants living in the USA have legal status. | [Haitian migrants have legal status](https://springfieldohio.gov/immigration-faqs/) | ![True](/assets/images/true.png) | 
+| Springfield, OH has a large number of Haitian migrants | Springfield OH Government website estimates approximately 12000-15000 of migrants in Clarke County. But there is no specific estimate how many of those migrants are Haitians. | [Springfield, OH...](https://springfieldohio.gov/immigration-faqs/) | ![False](/assets/images/false.png) | 
+| Haitian migrants have legal status | Haitian immigrants are in USA legally, under the Immigration Parole Program. Almost all Haitians have legal immigration status of a parolee. It is rational to estimate that Haitians migrants living in the USA have legal status. | [Haitian migrants...](https://springfieldohio.gov/immigration-faqs/) | ![True](/assets/images/true.png) | 
 | Haitian migran have temporary protected status | Haitian migrants can apply for three statuses in the USA. Asylum, Parole, and/or Temporary Protected Status (TPS). However, USCIS, CBP or DHS has not published any information on how many Haitian migrants have applied for TPS. | [Temporary Protected Statu..](https://www.uscis.gov/humanitarian/temporary-protected-status) | ![True](/assets/images/true.png) | 
 
 ### Preservation of Source
