@@ -36,7 +36,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Youtube.com | YouTube Video @27 minutes, 50 seconds | ![image](/posts/images/2024-10-04-Undocumented-migrants-use-CBP-One-app-to-get-legal-status-image.jpg))) | [Full debate: JD Vance and..](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | 2024-10-04 | 
+| Youtube.com | YouTube Video @27 minutes, 50 seconds | ![image](/posts/images/2024-10-04-Undocumented-migrants-use-CBP-One-app-to-get-legal-status-image.jpg) | [Full debate: JD Vance and..](https://www.youtube.com/live/VAGZGQg31hs&t=1676) | 2024-10-04 | 
 
 ### Audit of Other Fact Checking Sites
 
