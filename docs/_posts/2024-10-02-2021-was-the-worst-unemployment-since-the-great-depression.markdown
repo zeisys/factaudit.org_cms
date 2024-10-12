@@ -5,7 +5,7 @@ date: 2024-10-02 12:00:00 -0400
 tags: News Unemployment Kamala Harris Great Depression Economy
 ---
 
-![![0% True](/assets/images/0.jpg)% True](/assets/images/![0% True](/assets/images/0.jpg).jpg)
+![0% True](/assets/images/0.jpg)
 
 ### Fact / Fiction
 
