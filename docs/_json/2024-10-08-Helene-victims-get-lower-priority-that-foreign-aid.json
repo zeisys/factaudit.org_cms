@@ -1,0 +1,111 @@
+{
+    "Title": "Helene victims get lower priority that foreign aid",
+    "Date": "2024-10-08",
+    "Percent": "![80% True](/assets/images/80.jpg)",
+    "Tags": [
+        "News",
+        "Politics",
+        "US Election",
+        "Hurricane",
+        "FEMA",
+        "USAID",
+        "Department of Homeland Security",
+        "Foreign Aid",
+        "Department of State",
+        "Donald Trump"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Donald Trump",
+            "Info": "Presidential Candidate for Republican Party"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2024-10-05",
+            "Info": "2024 Election Campaign"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "MAGA Rally",
+            "Info": "Butler, PA"
+        },
+        {
+            "Spec": "What",
+            "Desc": "They’re offering them $750, to people whose homes have been washed away. And yet we send tens of billions of dollars to foreign countries that most people have never heard of. They’re offering them $750. They’ve been destroyed, these people have been destroyed. Think of it: We give foreign countries hundreds of billions of dollars and we’re handing North Carolina $750.",
+            "Info": "Youtube Captions"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "They’re offering them $750 to people whose homes have been washed away.",
+            "Rationale": "The $750 is under the Federal Emergency Management Agency’s Serious Needs Assistance program, which covers immediate needs after a disaster, including food, water, baby formula, breastfeeding supplies, medication and other emergency supplies. Through this program, the White House said, FEMA paid out more than $1 million to more than 1,400 North Carolina households within a day.",
+            "Source of Info": "[FEMA will only provide $7..](https://www.fema.gov/node/fema-will-only-provide-750-disaster-survivors-support-their-recovery)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "And we’re handing North Carolina $750. ",
+            "Rationale": "As of date, Total Housing Assistance (HA) - Dollars Approved $7,402,361.32, Total Other Needs Assistance (ONA) - Dollars Approved\t$30,056,948.09, Total Individual & Households Program Dollars Approved $37,459,309.41, Individual Assistance Applications Approved 28485. Amounting to $1300 approximately per application",
+            "Source of Info": "[4827 | FEMA.gov](https://www.fema.gov/disaster/4827)",
+            "T/F": "![False](/assets/images/false.png)"
+        },
+        {
+            "Statement": "And yet we send tens of billions of dollars to foreign countries that most people have never heard of.",
+            "Rationale": "Ukraine has received a total of $174 Billion since 2021 January, due to the Russian invasion, covering military, economic, and humanitarian needs.",
+            "Source of Info": "[FA.gov](https://foreignassistance.gov/cd/ukraine/)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Think of it: We give foreign countries hundreds of billions of dollars ",
+            "Rationale": "More than $140 billion has been provided to countries like Ethiopia, Afghanistan, Yemen, Jordan, and Egypt (more than $1 billion each year during this period) mostly for humanitarian and military purposes.",
+            "Source of Info": "[FA.gov](https://foreignassistance.gov)",
+            "T/F": "![True](/assets/images/true.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Video",
+            "Source": "Youtube.com Video @1hour 07minutes 54 seconds",
+            "Screenshot": "![image](/posts/images/2024-10-08-Helene-victims-get-lower-priority-that-foreign-aid-image.jpg)",
+            "Link": "[LIVE: Donald Trump hosts ..](https://www.youtube.com/live/QOENNClIqbQ?si=wq61LLO_dzsWm_9J&t=4074)",
+            "Link Valid Date": "2024-10-08"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        }
+    ]
+}
