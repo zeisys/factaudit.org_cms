@@ -38,20 +38,20 @@
     ],
     "Analysis": [
         {
-            "Statement": "Disaster Relief Fund receives funding through the regular appropriation process each year. This fund has not been used for immigrant programs. ",
-            "Rationale": "Although the DRF receives some funding through the regular appropriation process each year, most is furnished through supplemental appropriations, which the Congress provides in response to particularly large or widespread disasters. ",
+            "Statement": "FEMA Disaster Relief Fund (DRF) has been used to support undocumented migrants",
+            "Rationale": "FEMA Disaster Relief Fund (DRF) gets money from the government every year. While some money comes from the regular budget, most of it is extra money that Congress gives when there are really big disasters. DRF has never been used for helping immigrants.",
             "Source of Info": "[FEMA will only provide $7..](https://www.fema.gov/node/fema-will-only-provide-750-disaster-survivors-support-their-recovery)",
             "T/F": "![False](/assets/images/false.png)"
         },
         {
-            "Statement": "FEMA however used a total of $1.004 Billion in the SSP Program in 2023-2024. This money if it wasnt for the migrant programs could have been reallocated for DRF",
-            "Rationale": "The Shelter and Services Program (SSP), as directed by Congress in the Consolidated Appropriations Act of 2023, is administered by FEMA. In Fiscal Year 2024, Congress appropriated $650,000,000 for SSP. SSP provides financial support to non-federal entities to provide sheltering and related activities to noncitizen migrants following their release from the Department of Homeland Security (DHS). The intent is to support CBP in the safe, orderly, and humane release of non-citizen migrants from short-term holding facilities.",
+            "Statement": "FEMA spent a total of $1.004 billion on the Shelter and Services Program (SSP) in 2023-2024",
+            "Rationale": "If this money wasn't used for migrant programs, it could have been used for the Disaster Relief Fund (DRF). The SSP, which was set up by Congress in the 2023 budget, is managed by FEMA. In 2024, Congress gave $650 million to the SSP. This program helps pay non-government groups to provide shelter and services to undocumented migrants after they are released from the Department of Homeland Security (DHS). The goal is to help Customs and Border Protection (CBP) release migrants safely and humanely from short-term holding facilities.",
             "Source of Info": "[Shelter and Services Prog..](https://www.fema.gov/grants/shelter-services-program)",
-            "T/F": "![False](/assets/images/false.png)"
+            "T/F": "![True](/assets/images/true.png)"
         },
         {
-            "Statement": "FEMA used a total of $1.047 Billion on the Humanitarian EFSP for Organizations Assisting Migrants 2019-2023. This money if it wasnt for the migrant programs could have been reallocated for DRF",
-            "Rationale": "Congress first appropriated funds for EFSP assistance specifically for support for families and individuals encountered by the Department of Homeland Security (EFSP-Humanitarian, or EFSP-H) in 2019 and the following amounts were awarded to the EFSP National Board.",
+            "Statement": "FEMA spent a total of $1.047 billion on the Humanitarian Emergency Food and Shelter Program (EFSP) to help organizations assisting migrants from 2019 to 2023.",
+            "Rationale": "If this money hadn't been used for migrant programs, it could have been used for the Disaster Relief Fund (DRF). Congress first set aside money for the EFSP in 2019 to help undocumented migrants who were encountered by the Department of Homeland Security (DHS). The EFSP National Board received this money to manage and distribute it.",
             "Source of Info": "[Emergency Food and Shelte..](https://www.fema.gov/grants/emergency-food-and-shelter-program)",
             "T/F": "![True](/assets/images/true.png)"
         }
