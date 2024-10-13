@@ -24,9 +24,9 @@ In this section we break down the content into statements that are either true o
 
 | Statement | Rationale | Source of Info | T/F | 
 | ----------- | ----------- | ----------- | ----------- |
-| We are meeting the immediate needs with the money that we have. | Exact Statement | [FEMA does not have money ..](https://budget.house.gov/imo/media/doc/hearing_weap-up.pdf) | ![True](/assets/images/true.png) | 
+| We are meeting the immediate needs with the money that we have. | Exact Statement | [Letter Regarding Critical..](https://www.whitehouse.gov/omb/briefing-room/2024/06/28/letter-regarding-critical-supplemental-funding-needs/) | ![True](/assets/images/true.png) | 
 | We are expecting another hurricane hitting. | Exact Statement | [Hurricane Milton: Follow ..](https://www.commerce.gov/news/blog/2024/10/hurricane-milton-follow-advice-local-officials-and-evacuate-if-told-do-so) | ![True](/assets/images/true.png) | 
-| FEMA does not have the funds to make it through the season. | Exact Statement | [Chairman Green on Secreta..](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/) | ![True](/assets/images/true.png) | 
+| FEMA does not have the funds to make it through the season. | Exact Statement | [Letter to Congress on Dis..](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/) | ![True](/assets/images/true.png) | 
 
 ### Preservation of Source
 
@@ -34,7 +34,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| WhiteHouse.gov | Press Gaggle by Alexandro Mayorkas | image.jpg | [Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
+| WhiteHouse.gov | Press Gaggle by Alexandro Mayorkas | ![image](/posts/images/2024-10-05-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-image.png) | [Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/) | 2024-10-05 | 
 
 ### Audit of Other Fact Checking Sites
 

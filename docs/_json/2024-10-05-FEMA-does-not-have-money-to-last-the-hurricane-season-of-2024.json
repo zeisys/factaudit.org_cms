@@ -37,7 +37,7 @@
         {
             "Statement": "We are meeting the immediate needs with the money that we have.",
             "Rationale": "Exact Statement",
-            "Source of Info": "[FEMA does not have money ..](https://budget.house.gov/imo/media/doc/hearing_weap-up.pdf)",
+            "Source of Info": "[Letter Regarding Critical..](https://www.whitehouse.gov/omb/briefing-room/2024/06/28/letter-regarding-critical-supplemental-funding-needs/)",
             "T/F": "![True](/assets/images/true.png)"
         },
         {
@@ -49,7 +49,7 @@
         {
             "Statement": "FEMA does not have the funds to make it through the season.",
             "Rationale": "Exact Statement",
-            "Source of Info": "[Chairman Green on Secreta..](https://homeland.house.gov/2024/10/04/chairman-green-on-secretary-mayorkas-claims-about-fema-funds-biden-harris-administrations-priorities-are-completely-backwards/)",
+            "Source of Info": "[Letter to Congress on Dis..](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/04/letter-to-congress-on-disaster-needs/)",
             "T/F": "![True](/assets/images/true.png)"
         }
     ],
@@ -57,7 +57,7 @@
         {
             "Type": "WhiteHouse.gov",
             "Source": "Press Gaggle by Alexandro Mayorkas",
-            "Screenshot": "image.jpg",
+            "Screenshot": "![image](/posts/images/2024-10-05-FEMA-does-not-have-money-to-last-the-hurricane-season-of-2024-image.png)",
             "Link": "[Press Gaggle by Press Sec..](https://www.whitehouse.gov/briefing-room/press-briefings/2024/10/02/press-gaggle-by-press-secretary-karine-jean-pierre-and-secretary-of-homeland-security-alejandro-mayorkas-en-route-greenville-sc/)",
             "Link Valid Date": "2024-10-05"
         }
