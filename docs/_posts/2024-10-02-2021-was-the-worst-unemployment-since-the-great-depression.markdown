@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2021 was the worst unemployment since the great depression"
+title: "2021 was the WORST unemployment since the great depression"
 date: 2024-10-02 12:00:00 -0400
 tags: News Unemployment Kamala Harris Great Depression Economy
 ---
