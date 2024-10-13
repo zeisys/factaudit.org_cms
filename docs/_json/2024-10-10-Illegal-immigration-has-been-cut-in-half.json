@@ -1,0 +1,112 @@
+{
+    "Title": "Illegal immigration has been cut in half",
+    "Date": "2024-10-10",
+    "Percent": "![0% True](/assets/images/0.jpg)",
+    "Tags": [
+        "News",
+        "Politics",
+        "US Election",
+        "Immigration",
+        "CBP",
+        "ICE",
+        "Department of Homeland Security",
+        "USCIS",
+        "Illegal Immigration",
+        "Undoumented Migrants"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Kamala Harris",
+            "Info": "Presidential Candidate for Republican Party"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2024-10-09",
+            "Info": "60 Minutes"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "VP's Residence",
+            "Info": "Washington DC"
+        },
+        {
+            "Spec": "What",
+            "Desc": "And the numbers today because of what we have done we have cut the flow of illegal immigration by half",
+            "Info": "Youtube Captions"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "In FY2016, the last year of Barack Obama presidency, the monthly average of CBP encounters is 46933.  ",
+            "Rationale": "CBP encounters are when undocumented migrants are caught by CBP or authorized agencies trying to cross the Southwest Border in places where there were no official border crossings",
+            "Source of Info": "[Southwest Border Migratio..](https://www.cbp.gov/newsroom/stats/sw-border-migration-fy2017)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "In FY2020, the last year of Donald Trump presidency, the monthly average of CBP encounters is 38174.  ",
+            "Rationale": "CBP encounters are when undocumented migrants are caught by CBP or authorized agencies trying to cross the Southwest Border in places where there were no official border crossings",
+            "Source of Info": "[Southwest Border Migratio..](https://www.cbp.gov/newsroom/stats/sw-border-migration-fy2020)",
+            "T/F": "![False](/assets/images/false.png)"
+        },
+        {
+            "Statement": "In the first three months of FY2024, the last year of Joseph Biden presidency, the monthly average of CBP encounters is 261770. This number is eight (8) times higher than the last year of Donald Trump presidency.  ",
+            "Rationale": "CBP encounters are when undocumented migrants are caught by CBP or authorized agencies trying to cross the Southwest Border in places where there were no official border crossings",
+            "Source of Info": "[Southwest Land Border Enc..](https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters)",
+            "T/F": "![True](/assets/images/true.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Video",
+            "Source": "Youtube.com Video @14minutes 17seconds",
+            "Screenshot": "![image](/posts/images/2024-10-10-Illegal-immigration-has-been-cut-in-half-image.png)",
+            "Link": "[Illegal immigration has b..](https://youtu.be/hfYMzqvlKHk?si=k39-MoVXIdcqdKIT&t=857)",
+            "Link Valid Date": "2024-10-10"
+        },
+        {
+            "Type": "Chart",
+            "Source": "Data collected from CBP.gov",
+            "Screenshot": "![encounters](/posts/images/2024-10-10-Illegal-immigration-has-been-cut-in-half-encounters.png)",
+            "Link": "",
+            "Link Valid Date": ""
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        }
+    ]
+}
