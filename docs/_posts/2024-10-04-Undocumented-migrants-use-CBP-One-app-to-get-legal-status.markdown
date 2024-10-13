@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Undocumented migrants use CBP One app to get legal status"
+title: "Undocumented migrants use CBP One app to GET legal status"
 date: 2024-10-04 12:00:00 -0400
 tags: News Immigration Asylee Parolee Temporary Protected Status
 ---
