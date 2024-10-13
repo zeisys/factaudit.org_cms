@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haitian migrants in Springfield Ohio have legal status"
+title: "Haitian migrants in Springfield Ohio HAVE legal status"
 date: 2024-10-03 12:00:00 -0400
 tags: News Immigration Asylee Parolee Temporary Protected Status
 ---
