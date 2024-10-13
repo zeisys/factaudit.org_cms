@@ -1,0 +1,123 @@
+{
+    "Title": "Trump peacefully transferred power to Biden in 2020",
+    "Date": "2024-10-11",
+    "Percent": "![0% True](/assets/images/0.jpg)",
+    "Tags": [
+        "News",
+        "Politics",
+        "US Election",
+        "Jan 6 Insurrection",
+        "Attack on Democracy",
+        "Capitol Riots",
+        "White House",
+        "Election 2020",
+        "Donald Trump",
+        "Joseph Biden"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "James David Vance",
+            "Info": "VP Candidate for Republican Party"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2024-10-02",
+            "Info": "VP Debate"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "CBS",
+            "Info": "New York City, NY"
+        },
+        {
+            "Spec": "What",
+            "Desc": "It is really rich for democratic leaders to say that Donald Trump is a unique threat to democracy when he peacefully gave over power on January 20 (of 2021) as we have done for 250 years in this country.",
+            "Info": "Youtube Captions"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "The Capitol was breached around 2:00PM. The first time Donald Trump tweets about peaceful protests was at 2:38 PM.",
+            "Rationale": "Donald Trump tweets at 2:38pm - Please support our Capitol Police and Law Enforcement. They are truly on the side of our Country. Stay peaceful! - The lateness of this message is his only conduct we find that could have been improved.",
+            "Source of Info": "[Senate.gov](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/HSGAC&RulesFullReport_ExaminingU.S.CapitolAttack.pdf)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Donald Trump public criticized Mike Pence for refusing to overturn the election results",
+            "Rationale": "Donald Trump tweets at 2:24pm - Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth! - He is seeking to overturn the elections procedurally here. There is no element of violence.",
+            "Source of Info": "[House.gov](https://docs.house.gov/meetings/GO/GO00/20210902/114020/HMKP-117-GO00-20210902-SD005.pdf)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Donald Trump repeated that protests must remain peaceful",
+            "Rationale": "Donald Trump tweets at 3:13pm - I am asking for everyone at the U.S. Capitol to remain peaceful. No violence! Remember, WE are the Party of Law & Order – respect the Law and our great men and women in Blue. Thank you! - He specifically highlights no violence and respect for the law and the law enforcement.",
+            "Source of Info": "[Govinfo.gov](https://www.govinfo.gov/collection/january-6th-committee-final-report?path=/gpo/January%206th%20Committee%20Final%20Report%20and%20Supporting%20Materials%20Collection/Supporting%20Materials%20-%20Web%20Resources%20Referenced%20by%20the%20Committee/%7B%22pageSize%22%3A%2250%22%2C%22offset%22%3A%220%22%7D)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Donald Trump did not authorize National Guard to protect the Capitol on Jan 6, 2021",
+            "Rationale": "The decision not to immediately deploy the National Guard on January 6, 2021, was made by senior officials at the Pentagon. The decision-making process involved Acting Secretary of Defense Christopher Miller and Army Secretary Ryan McCarthy. Donald Trump had absolutely no part in this action.",
+            "Source of Info": "[NationalGuard.mil](https://www.nationalguard.mil/News/Article/2466077/dod-details-national-guard-response-to-capitol-attack/)",
+            "T/F": "![False](/assets/images/false.png)"
+        },
+        {
+            "Statement": "Donald Trump condemned the Capitol incidents in his farewall speech on January 19, 2021",
+            "Rationale": "All Americans were horrified by the assault on our Capitol.  Political violence is an attack on everything we cherish as Americans.  It can never be tolerated. Now more than ever, we must unify around our shared values and rise above the partisan rancor, and forge our common destiny.",
+            "Source of Info": "[Archive.gov](https://trumpwhitehouse.archives.gov/farewell-address/)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Donald Trump left the White House peacefully on January 20, 2021",
+            "Rationale": "He refers to White House as the greatest home in the world as he departs it. He did not attend the inauguration of Biden. But just because he isnt a great sport when he lost, doesnt mean that he did not hand over the power peacefully to the incumbent Joe Biden.",
+            "Source of Info": "[White House Archive.gov](https://www.youtube.com/watch?v=DebjxDtcbzw)",
+            "T/F": "![True](/assets/images/true.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Video",
+            "Source": "Youtube.com Video @1 hour 34minutes 07seconds",
+            "Screenshot": "![image](/posts/images/2024-10-11-Trump-peacefully-transferred-power-to-Biden-in-2020-image.png)",
+            "Link": "[Trump peacefully transfer..](https://youtu.be/hfYMzqvlKHk?si=k39-MoVXIdcqdKIT&t=857)",
+            "Link Valid Date": "2024-10-11"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        }
+    ]
+}
