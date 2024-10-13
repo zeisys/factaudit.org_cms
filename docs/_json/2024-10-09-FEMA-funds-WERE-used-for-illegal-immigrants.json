@@ -1,0 +1,105 @@
+{
+    "Title": "FEMA funds WERE used for illegal immigrants",
+    "Date": "2024-10-09",
+    "Percent": "![70% True](/assets/images/70.jpg)",
+    "Tags": [
+        "News",
+        "Politics",
+        "US Election",
+        "Hurricane",
+        "FEMA",
+        "USAID",
+        "Department of Homeland Security",
+        "Foreign Aid",
+        "Department of State",
+        "Donald Trump"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Donald Trump",
+            "Info": "Presidential Candidate for Republican Party"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2024-10-03",
+            "Info": "2024 Election Campaign"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "MAGA Rally",
+            "Info": "Saginaw, Michigan"
+        },
+        {
+            "Spec": "What",
+            "Desc": "They stole the FEMA money, just like they stole it from a bank, so they could give it to their illegal immigrants that they want to have vote for them this season.",
+            "Info": "Youtube Captions"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "Disaster Relief Fund receives funding through the regular appropriation process each year. This fund has not been used for immigrant programs. ",
+            "Rationale": "Although the DRF receives some funding through the regular appropriation process each year, most is furnished through supplemental appropriations, which the Congress provides in response to particularly large or widespread disasters. ",
+            "Source of Info": "[FEMA will only provide $7..](https://www.fema.gov/node/fema-will-only-provide-750-disaster-survivors-support-their-recovery)",
+            "T/F": "![False](/assets/images/false.png)"
+        },
+        {
+            "Statement": "FEMA however used a total of $1.004 Billion in the SSP Program in 2023-2024. This money if it wasnt for the migrant programs could have been reallocated for DRF",
+            "Rationale": "The Shelter and Services Program (SSP), as directed by Congress in the Consolidated Appropriations Act of 2023, is administered by FEMA. In Fiscal Year 2024, Congress appropriated $650,000,000 for SSP. SSP provides financial support to non-federal entities to provide sheltering and related activities to noncitizen migrants following their release from the Department of Homeland Security (DHS). The intent is to support CBP in the safe, orderly, and humane release of non-citizen migrants from short-term holding facilities.",
+            "Source of Info": "[Shelter and Services Prog..](https://www.fema.gov/grants/shelter-services-program)",
+            "T/F": "![False](/assets/images/false.png)"
+        },
+        {
+            "Statement": "FEMA used a total of $1.047 Billion on the Humanitarian EFSP for Organizations Assisting Migrants 2019-2023. This money if it wasnt for the migrant programs could have been reallocated for DRF",
+            "Rationale": "Congress first appropriated funds for EFSP assistance specifically for support for families and individuals encountered by the Department of Homeland Security (EFSP-Humanitarian, or EFSP-H) in 2019 and the following amounts were awarded to the EFSP National Board.",
+            "Source of Info": "[Emergency Food and Shelte..](https://www.fema.gov/grants/emergency-food-and-shelter-program)",
+            "T/F": "![True](/assets/images/true.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Video",
+            "Source": "Youtube.com Video @1hour 03minutes 58seconds",
+            "Screenshot": "![image](/posts/images/2024-10-09-FEMA-funds-WERE-used-for-illegal-immigrants-image.png)",
+            "Link": "[WATCH LIVE: Trump holds c..](https://www.youtube.com/live/T8lbWiZE7Zk?si=cODbzBspAoFMHJEo)",
+            "Link Valid Date": "2024-10-09"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        }
+    ]
+}
