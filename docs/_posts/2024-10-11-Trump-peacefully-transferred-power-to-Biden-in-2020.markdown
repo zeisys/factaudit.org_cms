@@ -5,7 +5,7 @@ date: 2024-10-11 12:00:00 -0400
 tags: News Politics US Election Jan 6 Insurrection Attack on Democracy Capitol Riots White House Election 2020 Donald Trump Joseph Biden
 ---
 
-![0% True](/assets/images/0.jpg)
+![100% True](/assets/images/100.jpg)
 
 ### Fact / Fiction
 
