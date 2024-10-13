@@ -44,9 +44,9 @@
             "T/F": "![True](/assets/images/true.png)"
         },
         {
-            "Statement": "And we’re handing North Carolina $750. ",
-            "Rationale": "As of date, Total Housing Assistance (HA) - Dollars Approved $7,402,361.32, Total Other Needs Assistance (ONA) - Dollars Approved\t$30,056,948.09, Total Individual & Households Program Dollars Approved $37,459,309.41, Individual Assistance Applications Approved 28485. Amounting to $1300 approximately per application",
-            "Source of Info": "[4827 | FEMA.gov](https://www.fema.gov/disaster/4827)",
+            "Statement": "And we’re handing North Carolina $750",
+            "Rationale": "As of date Total Housing Assistance (HA) Dollars Approved $7,402,361.32, Total Other Needs Assistance (ONA) Dollars Approved $30,056,948.09, Total Individual and Households Program Dollars Approved $37,459,309.41. Individual Assistance Applications Approved 28,485. Amounting to $1300 approximately per application. Additional funding is in the process of being approved.",
+            "Source of Info": "[Hurricane Helene victims assistance from FEMA](https://www.fema.gov/disaster/4827)",
             "T/F": "![False](/assets/images/false.png)"
         },
         {
