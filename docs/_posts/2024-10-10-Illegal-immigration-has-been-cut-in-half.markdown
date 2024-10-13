@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Illegal immigration has been cut in half"
+title: "Illegal immigration has been CUT in half"
 date: 2024-10-10 12:00:00 -0400
 tags: News Politics US Election Immigration CBP ICE Department of Homeland Security USCIS Illegal Immigration Undoumented Migrants
 ---
