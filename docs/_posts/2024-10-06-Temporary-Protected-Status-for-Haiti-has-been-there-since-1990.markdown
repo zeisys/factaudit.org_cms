@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Temporary Protected Status for Haiti has been there since 1990"
+title: "Temporary Protected Status for Haiti has been there SINCE 1990"
 date: 2024-10-06 12:00:00 -0400
 tags: Politics Immigration Asylum Parole Temporary Protected Status Homeland Security USCIS Immigration Act of 1990
 ---
