@@ -37,7 +37,7 @@ In this section we create traceability to the source of the fact or fiction.
 
 | Type | Source | Screenshot | Link | Link Valid Date | 
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Video | Youtube.com Video @1 hour 34minutes 07seconds | ![image](/posts/images/2024-10-11-Trump-DID-peacefully-transferred-power-to-Biden-in-2020-image.png) | [Trump DID peacefully tran..](https://youtu.be/hfYMzqvlKHk?si=k39-MoVXIdcqdKIT&t=857) | 2024-10-11 | 
+| Video | Youtube.com Video @1 hour 34minutes 07seconds | ![image](/posts/images/2024-10-11-Trump-DID-peacefully-transferred-power-to-Biden-in-2020-image.png) | [Full debate: JD Vance and..](https://www.youtube.com/live/VAGZGQg31hs?si=76wCqD5CyMXKNcLA&t=5647) | 2024-10-11 | 
 
 ### Audit of Other Fact Checking Sites
 
