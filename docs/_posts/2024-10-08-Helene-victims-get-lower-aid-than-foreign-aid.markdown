@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Helene victims get lower aid than foreign aid"
+title: "Helene victims get LOWER aid than foreign aid"
 date: 2024-10-08 12:00:00 -0400
 tags: News Politics US Election Hurricane FEMA USAID Department of Homeland Security Foreign Aid Department of State Donald Trump
 ---
