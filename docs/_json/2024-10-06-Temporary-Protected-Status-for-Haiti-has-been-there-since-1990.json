@@ -1,0 +1,97 @@
+{
+    "Title": "Temporary Protected Status for Haiti has been there since 1990",
+    "Date": "2024-10-06",
+    "Percent": "![50% True](/assets/images/50.jpg)",
+    "Tags": [
+        "Politics",
+        "Immigration",
+        "Asylum",
+        "Parole",
+        "Temporary Protected Status",
+        "Homeland Security",
+        "USCIS",
+        "Immigration Act of 1990"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Tim Walz",
+            "Info": "VP Candidate for Democratic Party"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2024-10-01",
+            "Info": "VP Debate"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "CBS Broadcast Center",
+            "Info": "New York City, NY"
+        },
+        {
+            "Spec": "What",
+            "Desc": "Those laws have been on books since 1990",
+            "Info": "Youtube Captions"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "Those laws have been on the books since 1990",
+            "Rationale": "TPS was provisioned in the Immigration Act of 1990",
+            "Source of Info": "[Immigration Act of 1990](https://www.congress.gov/bill/101st-congress/senate-bill/358)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "But in this case the context is TPS for Haitian migrants",
+            "Rationale": "DHS Extension and Redesignation of Haiti for Temporary Protected Status was done only on 7/1/2024",
+            "Source of Info": "[TPS for Haiti Citizens](https://www.federalregister.gov/documents/2024/07/01/2024-14247/extension-and-redesignation-of-haiti-for-temporary-protected-status)",
+            "T/F": "![False](/assets/images/false.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "YouTube.com",
+            "Source": "YouTube Video @28 minutes, 15 seconds",
+            "Screenshot": "![image](/posts/images/2024-10-06-Temporary-Protected-Status-for-Haiti-has-been-there-since-1990-image.jpg)",
+            "Link": "[Full debate: JD Vance and..](https://www.youtube.com/live/VAGZGQg31hs&t=1695)",
+            "Link Valid Date": "2024-10-06"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        }
+    ]
+}
