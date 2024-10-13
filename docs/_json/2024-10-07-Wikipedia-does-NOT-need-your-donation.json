@@ -1,0 +1,107 @@
+{
+    "Title": "Wikipedia does NOT need your donation",
+    "Date": "2024-10-07",
+    "Percent": "![100% True](/assets/images/100.jpg)",
+    "Tags": [
+        "News",
+        "Wikipedia",
+        "Information",
+        "Economy",
+        "Non Profit",
+        "Information"
+    ],
+    "Fact vs Fiction": [
+        {
+            "Spec": "Who",
+            "Desc": "Caitlin Dewey",
+            "Info": "Editor, Washington Post"
+        },
+        {
+            "Spec": "When",
+            "Desc": "2011-08-11",
+            "Info": "08:39PM PST"
+        },
+        {
+            "Spec": "Where",
+            "Desc": "Online Article",
+            "Info": "Washington Post"
+        },
+        {
+            "Spec": "What",
+            "Desc": "Wikipedia has a ton of money so why is it begging you to donate yours",
+            "Info": "Article Title"
+        }
+    ],
+    "Analysis": [
+        {
+            "Statement": "Jimmy Wales' creepy stare rockets $16 million in Wikipedia donations",
+            "Rationale": "Crowdsourced means writers, copy editors, fact checkers, et. al. work for free. And for all the accuracy criticism Wikipedia receives, check out Wikipedia's transparent editing history and you'll see those free employees work like they're getting health insurance",
+            "Source of Info": "[Jimmy Wales' creepy stare..](https://www.nbcnews.com/technolog/jimmy-wales-creepy-stare-rockets-16-million-wikipedia-donations-125764)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Wikipedia should focus on content creation – not social justice campaigns",
+            "Rationale": "Just 2pc of the encyclopedia’s revenue goes to hosting costs – and hard-working contributors still get nothing",
+            "Source of Info": "[Wikipedia should focus on..](https://www.telegraph.co.uk/business/2023/08/28/wikipedia-donations-contributors-social-justice-charities/)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "Amazon Just Donated $1 million to Wikipedia",
+            "Rationale": "The Wikimedia foundation, a nonprofit that hosts Wikipedia and our other free knowledge projects, recently announced that Amazon made a $1 million gift to its endowment fund",
+            "Source of Info": "[inc.com](https://www.inc.com/justin-bariso/amazon-wikimedia-wikipedia-donation-1-million-emotional-intelligence.html)",
+            "T/F": "![True](/assets/images/true.png)"
+        },
+        {
+            "Statement": "The Numbers Behind Wikipedia's Fundraising",
+            "Rationale": "Critics of Wikipedia's fundraising often bemoan the fact that the Wikimedia Foundation is growing richer every year. However, it is not uncommon for a charitable organization of that size to build financial reserves in order to be guarded against an unexpected shortfall in donations at some point.",
+            "Source of Info": "[Chart: The Numbers Behind..](https://www.statista.com/chart/3068/donations-to-wikipedia/)",
+            "T/F": "![True](/assets/images/true.png)"
+        }
+    ],
+    "Preservation of Source": [
+        {
+            "Type": "Article",
+            "Source": "Washington Post",
+            "Screenshot": "![image](/posts/images/2024-10-07-Wikipedia-does-NOT-need-your-donation-image.jpg)",
+            "Link": "[Wikipedia has a ton of money so why is it begging you to donate yours](https://www.washingtonpost.com/news/the-intersect/wp/2015/12/02/wikipedia-has-a-ton-of-money-so-why-is-it-begging-you-to-donate-yours/)",
+            "Link Valid Date": "2024-10-07"
+        }
+    ],
+    "Audit of Other Fact Checking Sites": [
+        {
+            "Site": "PolitiFact.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "FactCheck.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Snopes.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "Poynter.org",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        },
+        {
+            "Site": "MediaBiasFactCheck.com",
+            "Check Date": "",
+            "Screenshot": "",
+            "Explanation": "",
+            "Grade": ""
+        }
+    ]
+}
